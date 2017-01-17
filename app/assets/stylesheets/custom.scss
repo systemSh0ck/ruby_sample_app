@@ -28,7 +28,7 @@ textarea {
 }
 
 .boxoff {
-  margin: 40px 40px 0px 40px;
+  margin: 40px 3% 0px 3%;
 }
 
 /* typography */
@@ -64,6 +64,7 @@ p {
 #logo {
   float: left;
   margin-right: 10px;
+  margin-left: 3%;
   font-size: 1.7em;
   color: #fff;
   text-transform: uppercase;
@@ -76,11 +77,15 @@ p {
   }
 }
 
+.navbar-right {
+  margin-right: 3%;
+}
+
 
 /* footer */
 
 footer {
-  margin: 45px 40px 0 40px;
+  margin: 45px 3% 0 3%;
   padding-top: 5px;
   border-top: 1px solid #eaeaea;
   color: $light-gray;
